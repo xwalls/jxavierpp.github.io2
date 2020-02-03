@@ -11,7 +11,7 @@
   Cache-Control: public, max-age=31536000, immutable
 /styles-890745447a44eb4c0eb2.js
   Cache-Control: public, max-age=31536000, immutable
-/commons-dbc87ae502c6a56a62b6.js
+/commons-f0c35d6b319bccea9cf8.js
   Cache-Control: public, max-age=31536000, immutable
 /component---src-templates-not-found-template-js-02cfa543340126fe577d.js
   Cache-Control: public, max-age=31536000, immutable
@@ -29,263 +29,263 @@
   Cache-Control: public, max-age=31536000, immutable
 /component---src-templates-index-template-js-c9646f97a37d413e4fcf.js
   Cache-Control: public, max-age=31536000, immutable
-/webpack-runtime-5f766e78f317a2cf308b.js
+/webpack-runtime-944c45a84cb1f62b4cf0.js
   Cache-Control: public, max-age=31536000, immutable
 /netlify-identity-widget-8e6f024872c0d48ae324.js
   Cache-Control: public, max-age=31536000, immutable
-/app-75b9c2e08f71474306cb.js
+/app-2d70198b26968b4737ca.js
   Cache-Control: public, max-age=31536000, immutable
 /static/*
   Cache-Control: public, max-age=31536000, immutable
 /sw.js
   Cache-Control: no-cache
-/jxavierpp.github.io/offline-plugin-app-shell-fallback/
-  Link: </jxavierpp.github.io/webpack-runtime-5f766e78f317a2cf308b.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/styles-890745447a44eb4c0eb2.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/commons-dbc87ae502c6a56a62b6.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/netlify-identity-widget-8e6f024872c0d48ae324.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/app-75b9c2e08f71474306cb.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/component---node-modules-gatsby-plugin-offline-app-shell-js-cf2fd0f92da7499f18b1.js>; rel=preload; as=script
-/jxavierpp.github.io/404
-  Link: </jxavierpp.github.io/webpack-runtime-5f766e78f317a2cf308b.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/styles-890745447a44eb4c0eb2.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/commons-dbc87ae502c6a56a62b6.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/netlify-identity-widget-8e6f024872c0d48ae324.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/app-75b9c2e08f71474306cb.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/styles-890745447a44eb4c0eb2.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/commons-dbc87ae502c6a56a62b6.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/component---src-templates-not-found-template-js-02cfa543340126fe577d.js>; rel=preload; as=script
-/jxavierpp.github.io/tags
-  Link: </jxavierpp.github.io/webpack-runtime-5f766e78f317a2cf308b.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/styles-890745447a44eb4c0eb2.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/commons-dbc87ae502c6a56a62b6.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/netlify-identity-widget-8e6f024872c0d48ae324.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/app-75b9c2e08f71474306cb.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/styles-890745447a44eb4c0eb2.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/commons-dbc87ae502c6a56a62b6.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/component---src-templates-tags-list-template-js-a6fc8122a3a6473f95e0.js>; rel=preload; as=script
-/jxavierpp.github.io/categories
-  Link: </jxavierpp.github.io/webpack-runtime-5f766e78f317a2cf308b.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/styles-890745447a44eb4c0eb2.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/commons-dbc87ae502c6a56a62b6.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/netlify-identity-widget-8e6f024872c0d48ae324.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/app-75b9c2e08f71474306cb.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/styles-890745447a44eb4c0eb2.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/commons-dbc87ae502c6a56a62b6.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/component---src-templates-categories-list-template-js-b76a965f207ca7381362.js>; rel=preload; as=script
-/jxavierpp.github.io/404.html
-  Link: </jxavierpp.github.io/webpack-runtime-5f766e78f317a2cf308b.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/styles-890745447a44eb4c0eb2.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/commons-dbc87ae502c6a56a62b6.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/netlify-identity-widget-8e6f024872c0d48ae324.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/app-75b9c2e08f71474306cb.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/styles-890745447a44eb4c0eb2.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/commons-dbc87ae502c6a56a62b6.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/component---src-templates-not-found-template-js-02cfa543340126fe577d.js>; rel=preload; as=script
-/jxavierpp.github.io/pages/contacts/
-  Link: </jxavierpp.github.io/webpack-runtime-5f766e78f317a2cf308b.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/styles-890745447a44eb4c0eb2.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/commons-dbc87ae502c6a56a62b6.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/netlify-identity-widget-8e6f024872c0d48ae324.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/app-75b9c2e08f71474306cb.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/styles-890745447a44eb4c0eb2.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/commons-dbc87ae502c6a56a62b6.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/component---src-templates-page-template-js-30c9f68011554c8c6d0c.js>; rel=preload; as=script
-/jxavierpp.github.io/posts/the-origins-of-social-stationery-lettering
-  Link: </jxavierpp.github.io/webpack-runtime-5f766e78f317a2cf308b.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/styles-890745447a44eb4c0eb2.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/commons-dbc87ae502c6a56a62b6.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/netlify-identity-widget-8e6f024872c0d48ae324.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/app-75b9c2e08f71474306cb.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/styles-890745447a44eb4c0eb2.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/commons-dbc87ae502c6a56a62b6.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/component---src-templates-post-template-js-5f449cae0bb2fa9985ef.js>; rel=preload; as=script
-/jxavierpp.github.io/pages/about/
-  Link: </jxavierpp.github.io/webpack-runtime-5f766e78f317a2cf308b.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/styles-890745447a44eb4c0eb2.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/commons-dbc87ae502c6a56a62b6.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/netlify-identity-widget-8e6f024872c0d48ae324.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/app-75b9c2e08f71474306cb.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/styles-890745447a44eb4c0eb2.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/commons-dbc87ae502c6a56a62b6.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/component---src-templates-page-template-js-30c9f68011554c8c6d0c.js>; rel=preload; as=script
-/jxavierpp.github.io/posts/perfecting-the-art-of-perfection
-  Link: </jxavierpp.github.io/webpack-runtime-5f766e78f317a2cf308b.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/styles-890745447a44eb4c0eb2.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/commons-dbc87ae502c6a56a62b6.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/netlify-identity-widget-8e6f024872c0d48ae324.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/app-75b9c2e08f71474306cb.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/styles-890745447a44eb4c0eb2.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/commons-dbc87ae502c6a56a62b6.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/component---src-templates-post-template-js-5f449cae0bb2fa9985ef.js>; rel=preload; as=script
-/jxavierpp.github.io/posts/a-brief-history-of-typography
-  Link: </jxavierpp.github.io/webpack-runtime-5f766e78f317a2cf308b.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/styles-890745447a44eb4c0eb2.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/commons-dbc87ae502c6a56a62b6.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/netlify-identity-widget-8e6f024872c0d48ae324.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/app-75b9c2e08f71474306cb.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/styles-890745447a44eb4c0eb2.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/commons-dbc87ae502c6a56a62b6.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/component---src-templates-post-template-js-5f449cae0bb2fa9985ef.js>; rel=preload; as=script
-/jxavierpp.github.io/posts/the-birth-of-movable-type
-  Link: </jxavierpp.github.io/webpack-runtime-5f766e78f317a2cf308b.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/styles-890745447a44eb4c0eb2.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/commons-dbc87ae502c6a56a62b6.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/netlify-identity-widget-8e6f024872c0d48ae324.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/app-75b9c2e08f71474306cb.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/styles-890745447a44eb4c0eb2.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/commons-dbc87ae502c6a56a62b6.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/component---src-templates-post-template-js-5f449cae0bb2fa9985ef.js>; rel=preload; as=script
-/jxavierpp.github.io/posts/humane-typography-in-the-digital-age
-  Link: </jxavierpp.github.io/webpack-runtime-5f766e78f317a2cf308b.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/styles-890745447a44eb4c0eb2.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/commons-dbc87ae502c6a56a62b6.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/netlify-identity-widget-8e6f024872c0d48ae324.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/app-75b9c2e08f71474306cb.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/styles-890745447a44eb4c0eb2.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/commons-dbc87ae502c6a56a62b6.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/component---src-templates-post-template-js-5f449cae0bb2fa9985ef.js>; rel=preload; as=script
-/jxavierpp.github.io/tag/design
-  Link: </jxavierpp.github.io/webpack-runtime-5f766e78f317a2cf308b.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/styles-890745447a44eb4c0eb2.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/commons-dbc87ae502c6a56a62b6.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/netlify-identity-widget-8e6f024872c0d48ae324.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/app-75b9c2e08f71474306cb.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/styles-890745447a44eb4c0eb2.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/commons-dbc87ae502c6a56a62b6.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/component---src-templates-tag-template-js-c657d0fe7aba4a2367a2.js>; rel=preload; as=script
-/jxavierpp.github.io/tag/gatsby
-  Link: </jxavierpp.github.io/webpack-runtime-5f766e78f317a2cf308b.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/styles-890745447a44eb4c0eb2.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/commons-dbc87ae502c6a56a62b6.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/netlify-identity-widget-8e6f024872c0d48ae324.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/app-75b9c2e08f71474306cb.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/styles-890745447a44eb4c0eb2.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/commons-dbc87ae502c6a56a62b6.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/component---src-templates-tag-template-js-c657d0fe7aba4a2367a2.js>; rel=preload; as=script
-/jxavierpp.github.io/tag/handwriting
-  Link: </jxavierpp.github.io/webpack-runtime-5f766e78f317a2cf308b.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/styles-890745447a44eb4c0eb2.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/commons-dbc87ae502c6a56a62b6.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/netlify-identity-widget-8e6f024872c0d48ae324.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/app-75b9c2e08f71474306cb.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/styles-890745447a44eb4c0eb2.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/commons-dbc87ae502c6a56a62b6.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/component---src-templates-tag-template-js-c657d0fe7aba4a2367a2.js>; rel=preload; as=script
-/jxavierpp.github.io/tag/helvetica
-  Link: </jxavierpp.github.io/webpack-runtime-5f766e78f317a2cf308b.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/styles-890745447a44eb4c0eb2.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/commons-dbc87ae502c6a56a62b6.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/netlify-identity-widget-8e6f024872c0d48ae324.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/app-75b9c2e08f71474306cb.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/styles-890745447a44eb4c0eb2.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/commons-dbc87ae502c6a56a62b6.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/component---src-templates-tag-template-js-c657d0fe7aba4a2367a2.js>; rel=preload; as=script
-/jxavierpp.github.io/tag/history-of-typography
-  Link: </jxavierpp.github.io/webpack-runtime-5f766e78f317a2cf308b.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/styles-890745447a44eb4c0eb2.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/commons-dbc87ae502c6a56a62b6.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/netlify-identity-widget-8e6f024872c0d48ae324.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/app-75b9c2e08f71474306cb.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/styles-890745447a44eb4c0eb2.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/commons-dbc87ae502c6a56a62b6.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/component---src-templates-tag-template-js-c657d0fe7aba4a2367a2.js>; rel=preload; as=script
-/jxavierpp.github.io/tag/learning-to-write
-  Link: </jxavierpp.github.io/webpack-runtime-5f766e78f317a2cf308b.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/styles-890745447a44eb4c0eb2.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/commons-dbc87ae502c6a56a62b6.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/netlify-identity-widget-8e6f024872c0d48ae324.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/app-75b9c2e08f71474306cb.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/styles-890745447a44eb4c0eb2.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/commons-dbc87ae502c6a56a62b6.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/component---src-templates-tag-template-js-c657d0fe7aba4a2367a2.js>; rel=preload; as=script
-/jxavierpp.github.io/tag/linotype
-  Link: </jxavierpp.github.io/webpack-runtime-5f766e78f317a2cf308b.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/styles-890745447a44eb4c0eb2.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/commons-dbc87ae502c6a56a62b6.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/netlify-identity-widget-8e6f024872c0d48ae324.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/app-75b9c2e08f71474306cb.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/styles-890745447a44eb4c0eb2.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/commons-dbc87ae502c6a56a62b6.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/component---src-templates-tag-template-js-c657d0fe7aba4a2367a2.js>; rel=preload; as=script
-/jxavierpp.github.io/tag/monotype
-  Link: </jxavierpp.github.io/webpack-runtime-5f766e78f317a2cf308b.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/styles-890745447a44eb4c0eb2.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/commons-dbc87ae502c6a56a62b6.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/netlify-identity-widget-8e6f024872c0d48ae324.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/app-75b9c2e08f71474306cb.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/styles-890745447a44eb4c0eb2.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/commons-dbc87ae502c6a56a62b6.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/component---src-templates-tag-template-js-c657d0fe7aba4a2367a2.js>; rel=preload; as=script
-/jxavierpp.github.io/tag/open-source
-  Link: </jxavierpp.github.io/webpack-runtime-5f766e78f317a2cf308b.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/styles-890745447a44eb4c0eb2.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/commons-dbc87ae502c6a56a62b6.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/netlify-identity-widget-8e6f024872c0d48ae324.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/app-75b9c2e08f71474306cb.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/styles-890745447a44eb4c0eb2.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/commons-dbc87ae502c6a56a62b6.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/component---src-templates-tag-template-js-c657d0fe7aba4a2367a2.js>; rel=preload; as=script
-/jxavierpp.github.io/tag/typography
-  Link: </jxavierpp.github.io/webpack-runtime-5f766e78f317a2cf308b.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/styles-890745447a44eb4c0eb2.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/commons-dbc87ae502c6a56a62b6.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/netlify-identity-widget-8e6f024872c0d48ae324.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/app-75b9c2e08f71474306cb.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/styles-890745447a44eb4c0eb2.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/commons-dbc87ae502c6a56a62b6.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/component---src-templates-tag-template-js-c657d0fe7aba4a2367a2.js>; rel=preload; as=script
-/jxavierpp.github.io/tag/web-development
-  Link: </jxavierpp.github.io/webpack-runtime-5f766e78f317a2cf308b.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/styles-890745447a44eb4c0eb2.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/commons-dbc87ae502c6a56a62b6.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/netlify-identity-widget-8e6f024872c0d48ae324.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/app-75b9c2e08f71474306cb.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/styles-890745447a44eb4c0eb2.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/commons-dbc87ae502c6a56a62b6.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/component---src-templates-tag-template-js-c657d0fe7aba4a2367a2.js>; rel=preload; as=script
-/jxavierpp.github.io/category/design-culture
-  Link: </jxavierpp.github.io/webpack-runtime-5f766e78f317a2cf308b.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/styles-890745447a44eb4c0eb2.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/commons-dbc87ae502c6a56a62b6.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/netlify-identity-widget-8e6f024872c0d48ae324.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/app-75b9c2e08f71474306cb.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/styles-890745447a44eb4c0eb2.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/commons-dbc87ae502c6a56a62b6.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/component---src-templates-category-template-js-b7f06dc58e8dcbee435c.js>; rel=preload; as=script
-/jxavierpp.github.io/category/design-inspiration
-  Link: </jxavierpp.github.io/webpack-runtime-5f766e78f317a2cf308b.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/styles-890745447a44eb4c0eb2.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/commons-dbc87ae502c6a56a62b6.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/netlify-identity-widget-8e6f024872c0d48ae324.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/app-75b9c2e08f71474306cb.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/styles-890745447a44eb4c0eb2.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/commons-dbc87ae502c6a56a62b6.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/component---src-templates-category-template-js-b7f06dc58e8dcbee435c.js>; rel=preload; as=script
-/jxavierpp.github.io/category/typography
-  Link: </jxavierpp.github.io/webpack-runtime-5f766e78f317a2cf308b.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/styles-890745447a44eb4c0eb2.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/commons-dbc87ae502c6a56a62b6.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/netlify-identity-widget-8e6f024872c0d48ae324.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/app-75b9c2e08f71474306cb.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/styles-890745447a44eb4c0eb2.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/commons-dbc87ae502c6a56a62b6.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/component---src-templates-category-template-js-b7f06dc58e8dcbee435c.js>; rel=preload; as=script
-/jxavierpp.github.io/
-  Link: </jxavierpp.github.io/webpack-runtime-5f766e78f317a2cf308b.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/styles-890745447a44eb4c0eb2.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/commons-dbc87ae502c6a56a62b6.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/netlify-identity-widget-8e6f024872c0d48ae324.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/app-75b9c2e08f71474306cb.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/styles-890745447a44eb4c0eb2.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/commons-dbc87ae502c6a56a62b6.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/component---src-templates-index-template-js-c9646f97a37d413e4fcf.js>; rel=preload; as=script
-/jxavierpp.github.io/page/1
-  Link: </jxavierpp.github.io/webpack-runtime-5f766e78f317a2cf308b.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/styles-890745447a44eb4c0eb2.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/commons-dbc87ae502c6a56a62b6.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/netlify-identity-widget-8e6f024872c0d48ae324.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/app-75b9c2e08f71474306cb.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/styles-890745447a44eb4c0eb2.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/commons-dbc87ae502c6a56a62b6.js>; rel=preload; as=script
-  Link: </jxavierpp.github.io/component---src-templates-index-template-js-c9646f97a37d413e4fcf.js>; rel=preload; as=script
+/offline-plugin-app-shell-fallback/
+  Link: </webpack-runtime-944c45a84cb1f62b4cf0.js>; rel=preload; as=script
+  Link: </styles-890745447a44eb4c0eb2.js>; rel=preload; as=script
+  Link: </commons-f0c35d6b319bccea9cf8.js>; rel=preload; as=script
+  Link: </netlify-identity-widget-8e6f024872c0d48ae324.js>; rel=preload; as=script
+  Link: </app-2d70198b26968b4737ca.js>; rel=preload; as=script
+  Link: </component---node-modules-gatsby-plugin-offline-app-shell-js-cf2fd0f92da7499f18b1.js>; rel=preload; as=script
+/404
+  Link: </webpack-runtime-944c45a84cb1f62b4cf0.js>; rel=preload; as=script
+  Link: </styles-890745447a44eb4c0eb2.js>; rel=preload; as=script
+  Link: </commons-f0c35d6b319bccea9cf8.js>; rel=preload; as=script
+  Link: </netlify-identity-widget-8e6f024872c0d48ae324.js>; rel=preload; as=script
+  Link: </app-2d70198b26968b4737ca.js>; rel=preload; as=script
+  Link: </styles-890745447a44eb4c0eb2.js>; rel=preload; as=script
+  Link: </commons-f0c35d6b319bccea9cf8.js>; rel=preload; as=script
+  Link: </component---src-templates-not-found-template-js-02cfa543340126fe577d.js>; rel=preload; as=script
+/tags
+  Link: </webpack-runtime-944c45a84cb1f62b4cf0.js>; rel=preload; as=script
+  Link: </styles-890745447a44eb4c0eb2.js>; rel=preload; as=script
+  Link: </commons-f0c35d6b319bccea9cf8.js>; rel=preload; as=script
+  Link: </netlify-identity-widget-8e6f024872c0d48ae324.js>; rel=preload; as=script
+  Link: </app-2d70198b26968b4737ca.js>; rel=preload; as=script
+  Link: </styles-890745447a44eb4c0eb2.js>; rel=preload; as=script
+  Link: </commons-f0c35d6b319bccea9cf8.js>; rel=preload; as=script
+  Link: </component---src-templates-tags-list-template-js-a6fc8122a3a6473f95e0.js>; rel=preload; as=script
+/categories
+  Link: </webpack-runtime-944c45a84cb1f62b4cf0.js>; rel=preload; as=script
+  Link: </styles-890745447a44eb4c0eb2.js>; rel=preload; as=script
+  Link: </commons-f0c35d6b319bccea9cf8.js>; rel=preload; as=script
+  Link: </netlify-identity-widget-8e6f024872c0d48ae324.js>; rel=preload; as=script
+  Link: </app-2d70198b26968b4737ca.js>; rel=preload; as=script
+  Link: </styles-890745447a44eb4c0eb2.js>; rel=preload; as=script
+  Link: </commons-f0c35d6b319bccea9cf8.js>; rel=preload; as=script
+  Link: </component---src-templates-categories-list-template-js-b76a965f207ca7381362.js>; rel=preload; as=script
+/404.html
+  Link: </webpack-runtime-944c45a84cb1f62b4cf0.js>; rel=preload; as=script
+  Link: </styles-890745447a44eb4c0eb2.js>; rel=preload; as=script
+  Link: </commons-f0c35d6b319bccea9cf8.js>; rel=preload; as=script
+  Link: </netlify-identity-widget-8e6f024872c0d48ae324.js>; rel=preload; as=script
+  Link: </app-2d70198b26968b4737ca.js>; rel=preload; as=script
+  Link: </styles-890745447a44eb4c0eb2.js>; rel=preload; as=script
+  Link: </commons-f0c35d6b319bccea9cf8.js>; rel=preload; as=script
+  Link: </component---src-templates-not-found-template-js-02cfa543340126fe577d.js>; rel=preload; as=script
+/pages/about/
+  Link: </webpack-runtime-944c45a84cb1f62b4cf0.js>; rel=preload; as=script
+  Link: </styles-890745447a44eb4c0eb2.js>; rel=preload; as=script
+  Link: </commons-f0c35d6b319bccea9cf8.js>; rel=preload; as=script
+  Link: </netlify-identity-widget-8e6f024872c0d48ae324.js>; rel=preload; as=script
+  Link: </app-2d70198b26968b4737ca.js>; rel=preload; as=script
+  Link: </styles-890745447a44eb4c0eb2.js>; rel=preload; as=script
+  Link: </commons-f0c35d6b319bccea9cf8.js>; rel=preload; as=script
+  Link: </component---src-templates-page-template-js-30c9f68011554c8c6d0c.js>; rel=preload; as=script
+/pages/contacts/
+  Link: </webpack-runtime-944c45a84cb1f62b4cf0.js>; rel=preload; as=script
+  Link: </styles-890745447a44eb4c0eb2.js>; rel=preload; as=script
+  Link: </commons-f0c35d6b319bccea9cf8.js>; rel=preload; as=script
+  Link: </netlify-identity-widget-8e6f024872c0d48ae324.js>; rel=preload; as=script
+  Link: </app-2d70198b26968b4737ca.js>; rel=preload; as=script
+  Link: </styles-890745447a44eb4c0eb2.js>; rel=preload; as=script
+  Link: </commons-f0c35d6b319bccea9cf8.js>; rel=preload; as=script
+  Link: </component---src-templates-page-template-js-30c9f68011554c8c6d0c.js>; rel=preload; as=script
+/posts/perfecting-the-art-of-perfection
+  Link: </webpack-runtime-944c45a84cb1f62b4cf0.js>; rel=preload; as=script
+  Link: </styles-890745447a44eb4c0eb2.js>; rel=preload; as=script
+  Link: </commons-f0c35d6b319bccea9cf8.js>; rel=preload; as=script
+  Link: </netlify-identity-widget-8e6f024872c0d48ae324.js>; rel=preload; as=script
+  Link: </app-2d70198b26968b4737ca.js>; rel=preload; as=script
+  Link: </styles-890745447a44eb4c0eb2.js>; rel=preload; as=script
+  Link: </commons-f0c35d6b319bccea9cf8.js>; rel=preload; as=script
+  Link: </component---src-templates-post-template-js-5f449cae0bb2fa9985ef.js>; rel=preload; as=script
+/posts/the-origins-of-social-stationery-lettering
+  Link: </webpack-runtime-944c45a84cb1f62b4cf0.js>; rel=preload; as=script
+  Link: </styles-890745447a44eb4c0eb2.js>; rel=preload; as=script
+  Link: </commons-f0c35d6b319bccea9cf8.js>; rel=preload; as=script
+  Link: </netlify-identity-widget-8e6f024872c0d48ae324.js>; rel=preload; as=script
+  Link: </app-2d70198b26968b4737ca.js>; rel=preload; as=script
+  Link: </styles-890745447a44eb4c0eb2.js>; rel=preload; as=script
+  Link: </commons-f0c35d6b319bccea9cf8.js>; rel=preload; as=script
+  Link: </component---src-templates-post-template-js-5f449cae0bb2fa9985ef.js>; rel=preload; as=script
+/posts/a-brief-history-of-typography
+  Link: </webpack-runtime-944c45a84cb1f62b4cf0.js>; rel=preload; as=script
+  Link: </styles-890745447a44eb4c0eb2.js>; rel=preload; as=script
+  Link: </commons-f0c35d6b319bccea9cf8.js>; rel=preload; as=script
+  Link: </netlify-identity-widget-8e6f024872c0d48ae324.js>; rel=preload; as=script
+  Link: </app-2d70198b26968b4737ca.js>; rel=preload; as=script
+  Link: </styles-890745447a44eb4c0eb2.js>; rel=preload; as=script
+  Link: </commons-f0c35d6b319bccea9cf8.js>; rel=preload; as=script
+  Link: </component---src-templates-post-template-js-5f449cae0bb2fa9985ef.js>; rel=preload; as=script
+/posts/humane-typography-in-the-digital-age
+  Link: </webpack-runtime-944c45a84cb1f62b4cf0.js>; rel=preload; as=script
+  Link: </styles-890745447a44eb4c0eb2.js>; rel=preload; as=script
+  Link: </commons-f0c35d6b319bccea9cf8.js>; rel=preload; as=script
+  Link: </netlify-identity-widget-8e6f024872c0d48ae324.js>; rel=preload; as=script
+  Link: </app-2d70198b26968b4737ca.js>; rel=preload; as=script
+  Link: </styles-890745447a44eb4c0eb2.js>; rel=preload; as=script
+  Link: </commons-f0c35d6b319bccea9cf8.js>; rel=preload; as=script
+  Link: </component---src-templates-post-template-js-5f449cae0bb2fa9985ef.js>; rel=preload; as=script
+/posts/the-birth-of-movable-type
+  Link: </webpack-runtime-944c45a84cb1f62b4cf0.js>; rel=preload; as=script
+  Link: </styles-890745447a44eb4c0eb2.js>; rel=preload; as=script
+  Link: </commons-f0c35d6b319bccea9cf8.js>; rel=preload; as=script
+  Link: </netlify-identity-widget-8e6f024872c0d48ae324.js>; rel=preload; as=script
+  Link: </app-2d70198b26968b4737ca.js>; rel=preload; as=script
+  Link: </styles-890745447a44eb4c0eb2.js>; rel=preload; as=script
+  Link: </commons-f0c35d6b319bccea9cf8.js>; rel=preload; as=script
+  Link: </component---src-templates-post-template-js-5f449cae0bb2fa9985ef.js>; rel=preload; as=script
+/tag/design
+  Link: </webpack-runtime-944c45a84cb1f62b4cf0.js>; rel=preload; as=script
+  Link: </styles-890745447a44eb4c0eb2.js>; rel=preload; as=script
+  Link: </commons-f0c35d6b319bccea9cf8.js>; rel=preload; as=script
+  Link: </netlify-identity-widget-8e6f024872c0d48ae324.js>; rel=preload; as=script
+  Link: </app-2d70198b26968b4737ca.js>; rel=preload; as=script
+  Link: </styles-890745447a44eb4c0eb2.js>; rel=preload; as=script
+  Link: </commons-f0c35d6b319bccea9cf8.js>; rel=preload; as=script
+  Link: </component---src-templates-tag-template-js-c657d0fe7aba4a2367a2.js>; rel=preload; as=script
+/tag/gatsby
+  Link: </webpack-runtime-944c45a84cb1f62b4cf0.js>; rel=preload; as=script
+  Link: </styles-890745447a44eb4c0eb2.js>; rel=preload; as=script
+  Link: </commons-f0c35d6b319bccea9cf8.js>; rel=preload; as=script
+  Link: </netlify-identity-widget-8e6f024872c0d48ae324.js>; rel=preload; as=script
+  Link: </app-2d70198b26968b4737ca.js>; rel=preload; as=script
+  Link: </styles-890745447a44eb4c0eb2.js>; rel=preload; as=script
+  Link: </commons-f0c35d6b319bccea9cf8.js>; rel=preload; as=script
+  Link: </component---src-templates-tag-template-js-c657d0fe7aba4a2367a2.js>; rel=preload; as=script
+/tag/handwriting
+  Link: </webpack-runtime-944c45a84cb1f62b4cf0.js>; rel=preload; as=script
+  Link: </styles-890745447a44eb4c0eb2.js>; rel=preload; as=script
+  Link: </commons-f0c35d6b319bccea9cf8.js>; rel=preload; as=script
+  Link: </netlify-identity-widget-8e6f024872c0d48ae324.js>; rel=preload; as=script
+  Link: </app-2d70198b26968b4737ca.js>; rel=preload; as=script
+  Link: </styles-890745447a44eb4c0eb2.js>; rel=preload; as=script
+  Link: </commons-f0c35d6b319bccea9cf8.js>; rel=preload; as=script
+  Link: </component---src-templates-tag-template-js-c657d0fe7aba4a2367a2.js>; rel=preload; as=script
+/tag/helvetica
+  Link: </webpack-runtime-944c45a84cb1f62b4cf0.js>; rel=preload; as=script
+  Link: </styles-890745447a44eb4c0eb2.js>; rel=preload; as=script
+  Link: </commons-f0c35d6b319bccea9cf8.js>; rel=preload; as=script
+  Link: </netlify-identity-widget-8e6f024872c0d48ae324.js>; rel=preload; as=script
+  Link: </app-2d70198b26968b4737ca.js>; rel=preload; as=script
+  Link: </styles-890745447a44eb4c0eb2.js>; rel=preload; as=script
+  Link: </commons-f0c35d6b319bccea9cf8.js>; rel=preload; as=script
+  Link: </component---src-templates-tag-template-js-c657d0fe7aba4a2367a2.js>; rel=preload; as=script
+/tag/history-of-typography
+  Link: </webpack-runtime-944c45a84cb1f62b4cf0.js>; rel=preload; as=script
+  Link: </styles-890745447a44eb4c0eb2.js>; rel=preload; as=script
+  Link: </commons-f0c35d6b319bccea9cf8.js>; rel=preload; as=script
+  Link: </netlify-identity-widget-8e6f024872c0d48ae324.js>; rel=preload; as=script
+  Link: </app-2d70198b26968b4737ca.js>; rel=preload; as=script
+  Link: </styles-890745447a44eb4c0eb2.js>; rel=preload; as=script
+  Link: </commons-f0c35d6b319bccea9cf8.js>; rel=preload; as=script
+  Link: </component---src-templates-tag-template-js-c657d0fe7aba4a2367a2.js>; rel=preload; as=script
+/tag/learning-to-write
+  Link: </webpack-runtime-944c45a84cb1f62b4cf0.js>; rel=preload; as=script
+  Link: </styles-890745447a44eb4c0eb2.js>; rel=preload; as=script
+  Link: </commons-f0c35d6b319bccea9cf8.js>; rel=preload; as=script
+  Link: </netlify-identity-widget-8e6f024872c0d48ae324.js>; rel=preload; as=script
+  Link: </app-2d70198b26968b4737ca.js>; rel=preload; as=script
+  Link: </styles-890745447a44eb4c0eb2.js>; rel=preload; as=script
+  Link: </commons-f0c35d6b319bccea9cf8.js>; rel=preload; as=script
+  Link: </component---src-templates-tag-template-js-c657d0fe7aba4a2367a2.js>; rel=preload; as=script
+/tag/linotype
+  Link: </webpack-runtime-944c45a84cb1f62b4cf0.js>; rel=preload; as=script
+  Link: </styles-890745447a44eb4c0eb2.js>; rel=preload; as=script
+  Link: </commons-f0c35d6b319bccea9cf8.js>; rel=preload; as=script
+  Link: </netlify-identity-widget-8e6f024872c0d48ae324.js>; rel=preload; as=script
+  Link: </app-2d70198b26968b4737ca.js>; rel=preload; as=script
+  Link: </styles-890745447a44eb4c0eb2.js>; rel=preload; as=script
+  Link: </commons-f0c35d6b319bccea9cf8.js>; rel=preload; as=script
+  Link: </component---src-templates-tag-template-js-c657d0fe7aba4a2367a2.js>; rel=preload; as=script
+/tag/monotype
+  Link: </webpack-runtime-944c45a84cb1f62b4cf0.js>; rel=preload; as=script
+  Link: </styles-890745447a44eb4c0eb2.js>; rel=preload; as=script
+  Link: </commons-f0c35d6b319bccea9cf8.js>; rel=preload; as=script
+  Link: </netlify-identity-widget-8e6f024872c0d48ae324.js>; rel=preload; as=script
+  Link: </app-2d70198b26968b4737ca.js>; rel=preload; as=script
+  Link: </styles-890745447a44eb4c0eb2.js>; rel=preload; as=script
+  Link: </commons-f0c35d6b319bccea9cf8.js>; rel=preload; as=script
+  Link: </component---src-templates-tag-template-js-c657d0fe7aba4a2367a2.js>; rel=preload; as=script
+/tag/open-source
+  Link: </webpack-runtime-944c45a84cb1f62b4cf0.js>; rel=preload; as=script
+  Link: </styles-890745447a44eb4c0eb2.js>; rel=preload; as=script
+  Link: </commons-f0c35d6b319bccea9cf8.js>; rel=preload; as=script
+  Link: </netlify-identity-widget-8e6f024872c0d48ae324.js>; rel=preload; as=script
+  Link: </app-2d70198b26968b4737ca.js>; rel=preload; as=script
+  Link: </styles-890745447a44eb4c0eb2.js>; rel=preload; as=script
+  Link: </commons-f0c35d6b319bccea9cf8.js>; rel=preload; as=script
+  Link: </component---src-templates-tag-template-js-c657d0fe7aba4a2367a2.js>; rel=preload; as=script
+/tag/typography
+  Link: </webpack-runtime-944c45a84cb1f62b4cf0.js>; rel=preload; as=script
+  Link: </styles-890745447a44eb4c0eb2.js>; rel=preload; as=script
+  Link: </commons-f0c35d6b319bccea9cf8.js>; rel=preload; as=script
+  Link: </netlify-identity-widget-8e6f024872c0d48ae324.js>; rel=preload; as=script
+  Link: </app-2d70198b26968b4737ca.js>; rel=preload; as=script
+  Link: </styles-890745447a44eb4c0eb2.js>; rel=preload; as=script
+  Link: </commons-f0c35d6b319bccea9cf8.js>; rel=preload; as=script
+  Link: </component---src-templates-tag-template-js-c657d0fe7aba4a2367a2.js>; rel=preload; as=script
+/tag/web-development
+  Link: </webpack-runtime-944c45a84cb1f62b4cf0.js>; rel=preload; as=script
+  Link: </styles-890745447a44eb4c0eb2.js>; rel=preload; as=script
+  Link: </commons-f0c35d6b319bccea9cf8.js>; rel=preload; as=script
+  Link: </netlify-identity-widget-8e6f024872c0d48ae324.js>; rel=preload; as=script
+  Link: </app-2d70198b26968b4737ca.js>; rel=preload; as=script
+  Link: </styles-890745447a44eb4c0eb2.js>; rel=preload; as=script
+  Link: </commons-f0c35d6b319bccea9cf8.js>; rel=preload; as=script
+  Link: </component---src-templates-tag-template-js-c657d0fe7aba4a2367a2.js>; rel=preload; as=script
+/category/design-culture
+  Link: </webpack-runtime-944c45a84cb1f62b4cf0.js>; rel=preload; as=script
+  Link: </styles-890745447a44eb4c0eb2.js>; rel=preload; as=script
+  Link: </commons-f0c35d6b319bccea9cf8.js>; rel=preload; as=script
+  Link: </netlify-identity-widget-8e6f024872c0d48ae324.js>; rel=preload; as=script
+  Link: </app-2d70198b26968b4737ca.js>; rel=preload; as=script
+  Link: </styles-890745447a44eb4c0eb2.js>; rel=preload; as=script
+  Link: </commons-f0c35d6b319bccea9cf8.js>; rel=preload; as=script
+  Link: </component---src-templates-category-template-js-b7f06dc58e8dcbee435c.js>; rel=preload; as=script
+/category/design-inspiration
+  Link: </webpack-runtime-944c45a84cb1f62b4cf0.js>; rel=preload; as=script
+  Link: </styles-890745447a44eb4c0eb2.js>; rel=preload; as=script
+  Link: </commons-f0c35d6b319bccea9cf8.js>; rel=preload; as=script
+  Link: </netlify-identity-widget-8e6f024872c0d48ae324.js>; rel=preload; as=script
+  Link: </app-2d70198b26968b4737ca.js>; rel=preload; as=script
+  Link: </styles-890745447a44eb4c0eb2.js>; rel=preload; as=script
+  Link: </commons-f0c35d6b319bccea9cf8.js>; rel=preload; as=script
+  Link: </component---src-templates-category-template-js-b7f06dc58e8dcbee435c.js>; rel=preload; as=script
+/category/typography
+  Link: </webpack-runtime-944c45a84cb1f62b4cf0.js>; rel=preload; as=script
+  Link: </styles-890745447a44eb4c0eb2.js>; rel=preload; as=script
+  Link: </commons-f0c35d6b319bccea9cf8.js>; rel=preload; as=script
+  Link: </netlify-identity-widget-8e6f024872c0d48ae324.js>; rel=preload; as=script
+  Link: </app-2d70198b26968b4737ca.js>; rel=preload; as=script
+  Link: </styles-890745447a44eb4c0eb2.js>; rel=preload; as=script
+  Link: </commons-f0c35d6b319bccea9cf8.js>; rel=preload; as=script
+  Link: </component---src-templates-category-template-js-b7f06dc58e8dcbee435c.js>; rel=preload; as=script
+/
+  Link: </webpack-runtime-944c45a84cb1f62b4cf0.js>; rel=preload; as=script
+  Link: </styles-890745447a44eb4c0eb2.js>; rel=preload; as=script
+  Link: </commons-f0c35d6b319bccea9cf8.js>; rel=preload; as=script
+  Link: </netlify-identity-widget-8e6f024872c0d48ae324.js>; rel=preload; as=script
+  Link: </app-2d70198b26968b4737ca.js>; rel=preload; as=script
+  Link: </styles-890745447a44eb4c0eb2.js>; rel=preload; as=script
+  Link: </commons-f0c35d6b319bccea9cf8.js>; rel=preload; as=script
+  Link: </component---src-templates-index-template-js-c9646f97a37d413e4fcf.js>; rel=preload; as=script
+/page/1
+  Link: </webpack-runtime-944c45a84cb1f62b4cf0.js>; rel=preload; as=script
+  Link: </styles-890745447a44eb4c0eb2.js>; rel=preload; as=script
+  Link: </commons-f0c35d6b319bccea9cf8.js>; rel=preload; as=script
+  Link: </netlify-identity-widget-8e6f024872c0d48ae324.js>; rel=preload; as=script
+  Link: </app-2d70198b26968b4737ca.js>; rel=preload; as=script
+  Link: </styles-890745447a44eb4c0eb2.js>; rel=preload; as=script
+  Link: </commons-f0c35d6b319bccea9cf8.js>; rel=preload; as=script
+  Link: </component---src-templates-index-template-js-c9646f97a37d413e4fcf.js>; rel=preload; as=script

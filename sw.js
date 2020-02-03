@@ -27,7 +27,7 @@ workbox.core.clientsClaim();
  */
 self.__precacheManifest = [
   {
-    "url": "webpack-runtime-5f766e78f317a2cf308b.js"
+    "url": "webpack-runtime-944c45a84cb1f62b4cf0.js"
   },
   {
     "url": "styles.790eeae4437d0324be3a.css"
@@ -36,20 +36,20 @@ self.__precacheManifest = [
     "url": "styles-890745447a44eb4c0eb2.js"
   },
   {
-    "url": "commons-dbc87ae502c6a56a62b6.js"
+    "url": "commons-f0c35d6b319bccea9cf8.js"
   },
   {
     "url": "netlify-identity-widget-8e6f024872c0d48ae324.js"
   },
   {
-    "url": "app-75b9c2e08f71474306cb.js"
+    "url": "app-2d70198b26968b4737ca.js"
   },
   {
     "url": "component---node-modules-gatsby-plugin-offline-app-shell-js-cf2fd0f92da7499f18b1.js"
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "06274b65194170aa770ececa90b14de3"
+    "revision": "c1ea5f6f2ced82480b75d21646d5b53f"
   },
   {
     "url": "page-data/offline-plugin-app-shell-fallback/page-data.json",
@@ -61,7 +61,7 @@ self.__precacheManifest = [
   },
   {
     "url": "manifest.webmanifest",
-    "revision": "5d543593a7eac2f9879ead20041f1f63"
+    "revision": "9b2ea27d3693af7eced1a98b606b7c7e"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
@@ -149,12 +149,12 @@ const navigationRoute = new NavigationRoute(async ({ event }) => {
   lastNavigationRequest = event.request.url
 
   let { pathname } = new URL(event.request.url)
-  pathname = pathname.replace(new RegExp(`^/jxavierpp.github.io`), ``)
+  pathname = pathname.replace(new RegExp(`^`), ``)
 
   // Check for resources + the app bundle
   // The latter may not exist if the SW is updating to a new version
   const resources = await idbKeyval.get(`resources:${pathname}`)
-  if (!resources || !(await caches.match(`/jxavierpp.github.io/app-75b9c2e08f71474306cb.js`))) {
+  if (!resources || !(await caches.match(`/app-2d70198b26968b4737ca.js`))) {
     return await fetch(event.request)
   }
 
@@ -167,7 +167,7 @@ const navigationRoute = new NavigationRoute(async ({ event }) => {
     }
   }
 
-  const offlineShell = `/jxavierpp.github.io/offline-plugin-app-shell-fallback/index.html`
+  const offlineShell = `/offline-plugin-app-shell-fallback/index.html`
   const offlineShellWithKey = workbox.precaching.getCacheKeyForURL(offlineShell)
   return await caches.match(offlineShellWithKey)
 })
